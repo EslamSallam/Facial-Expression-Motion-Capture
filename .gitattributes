@@ -1,2 +1,4 @@
 Facial[[:space:]]Expression[[:space:]]Motion[[:space:]]Capture.pptx filter=lfs diff=lfs merge=lfs -text
 Library/PlayerDataCache/Win64/Data/sharedassets0.assets filter=lfs diff=lfs merge=lfs -text
+Library/metadata/af/af4bf5cb076e68a418d8090a5c944183 filter=lfs diff=lfs merge=lfs -text
+PythonScript/data/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
